@@ -1,2 +1,4 @@
-# earnings-call-transcript-rag
-Financial document analysis web based console
+# Earnings Call Transcript Analysis
+This is an end-to-end web application for financial document analysis
+
+
